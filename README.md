@@ -1,2 +1,1 @@
-# PYTHON
-It is programming language
+JANVI KOHLI
